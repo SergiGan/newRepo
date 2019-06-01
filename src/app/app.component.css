@@ -1,0 +1,21 @@
+.nav{
+	height: 50px;
+	
+	background-color: grey;
+}
+.navbar{
+	box-shadow : 0 0 30px grey;
+
+}
+ul li{
+	display: inline-block;
+	margin: 0px 10px 0px 0px; 
+}
+.btn-group{
+	display: inline-block;
+	
+}
+strong{
+	margin: 0px 10px 0px 10px; 
+	align-content:center;
+} 
